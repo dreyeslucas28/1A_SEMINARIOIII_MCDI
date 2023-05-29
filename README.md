@@ -10,7 +10,12 @@ dreyeslucas20@gmail.com
 
 ## Entregables
 <br>
-Trabajo escrito
+Trabajo escrito 
+
+   [Contribution guidelines for this project](docs/CONTRIBUTING.md)
+   <br>
+   [Trabajo escrito](/README.md)
+   
 Los documentos incluidos para su revisión son los siguientes:<br>
 <br>
     * Video explicativo de los avances del proyecto https://youtu.be/V6z1Yb4V-qU <br>
