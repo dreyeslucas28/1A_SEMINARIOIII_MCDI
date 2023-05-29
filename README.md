@@ -9,12 +9,16 @@ dreyeslucas20@gmail.com
 <li>Revisor 2: Eric Tellez Avila, eric.tellez@ieee.org</li>
 
 ## Entregables
-<br>
-Trabajo escrito 
-
-   [Contribution guidelines for this project](docs/CONTRIBUTING.md)
+   
+   [Trabajo escrito](/TRABAJO%20ESCRITO/AVANCES%20DULCE_MARIA_REYES_LUCAS.pdf)</li>
    <br>
-   [Trabajo escrito](/README.md)
+   [Presentación inicial del trabajo](/TRABAJO%20ESCRITO/PRESENTACION_AVANCES_DULCE_MARIA_REYES_LUCAS.pdf)</li>
+   
+
+   <br>
+   TRABAJO ESCRITO/AVANCES DULCE_MARIA_REYES_LUCAS.pdf
+   <br>
+   This site was built using [GitHub Pages](https://github.com/seminario-proyectos-infotec/Speak7162/blob/2b1ad8c791dafd384e608fe47d3eb50b61b281f0/TRABAJO%20ESCRITO/AVANCES%20DULCE_MARIA_REYES_LUCAS.pdf).
    
 Los documentos incluidos para su revisión son los siguientes:<br>
 <br>
