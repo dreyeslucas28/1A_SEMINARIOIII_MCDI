@@ -13,8 +13,8 @@ dreyeslucas20@gmail.com
    [Trabajo escrito](/TRABAJO%20ESCRITO/AVANCES%20DULCE_MARIA_REYES_LUCAS.pdf)</li>
    <br>
    [Presentación inicial del trabajo](/TRABAJO%20ESCRITO/PRESENTACION_AVANCES_DULCE_MARIA_REYES_LUCAS.pdf)</li>
-   
-   [Presentación final del trabajo](/TRABAJO%20ESCRITO/Proyecto Final MCDI .pdf)</li>
+   <br>
+   [Presentación final del trabajo](/TRABAJO%20ESCRITO/Proyecto%Final%MCDI%.pdf)</li>
    
 
 
