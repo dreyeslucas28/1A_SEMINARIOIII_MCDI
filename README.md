@@ -19,4 +19,3 @@ dreyeslucas20@gmail.com
    [Comentarios Revisor 1](/TRABAJO%20ESCRITO/Dulce_Maria_4_Revision_de_proyecto.pdf)</li>
    <br>
    [Comentarios Revisor 2](/TRABAJO%20ESCRITO/4_Revision_de_proyecto_Dulce_Maria.pdf)</li>
-
