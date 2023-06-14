@@ -15,6 +15,6 @@ dreyeslucas20@gmail.com
    [Presentación inicial del trabajo](/TRABAJO%20ESCRITO/PRESENTACION_AVANCES_DULCE_MARIA_REYES_LUCAS.pdf)</li>
    <br>
    [Presentación final del trabajo](/TRABAJO%20ESCRITO/Proyecto_Final_MCDI.pdf)</li>
-   
-
+   <br>
+   [Comentarios Revisor 1](/TRABAJO%20ESCRITO/Dulce%Maria%-%4%Revisión%de%proyecto.pdf)</li>
 
